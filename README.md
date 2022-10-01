@@ -6,5 +6,4 @@ Pusing P
   <hr>
   <h3> Continue? </h3>
   <p><a href="Assignment.html">To my portal</a><p>
-  </body>
   </html>
